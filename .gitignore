@@ -1,0 +1,7 @@
+#Dependencies
+node_modules
+
+#Misc
+.env
+
+#These files get ignore by the git, these files don't get pushed to the main repository
